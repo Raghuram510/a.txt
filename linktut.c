@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+//student structure
 struct student{
     char name[30];
     int roll;
