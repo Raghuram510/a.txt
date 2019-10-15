@@ -31,7 +31,7 @@ void add_student()
         temp1->ptr_next=temp;
     }
 }
-
+//prints student
 void print_student()
 {
     student *temp;
