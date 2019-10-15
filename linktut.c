@@ -7,7 +7,7 @@ struct student{
 };
 typedef struct student student;
 student *head=NULL;
-
+//Adds student
 void add_student()
 {
     student *temp1;
