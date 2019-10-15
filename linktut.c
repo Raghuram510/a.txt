@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+//student structure
 struct student{
     char name[30];
     int roll;
@@ -46,7 +47,7 @@ void print_student()
         temp=temp->ptr_next;
     }
 }
-
+//main function
 int main()
 {
     int i;
